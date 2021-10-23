@@ -1,2 +1,2 @@
 # DikshaRepositoryTest01
-this is a test project created by me
+this is a test repository created by me
